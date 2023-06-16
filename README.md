@@ -5,7 +5,5 @@
 
  ## Screenshots
 
- <img src="https://user-images.githubusercontent.com/123460015/235429749-59f1af72-df86-41da-ba28-686eb7685667.png" width=30% height=30%>
- <img src="https://user-images.githubusercontent.com/123460015/235429749-59f1af72-df86-41da-ba28-686eb7685667.png" width=30% height=30%>
- <img src="https://user-images.githubusercontent.com/123460015/235429749-59f1af72-df86-41da-ba28-686eb7685667.png" width=30% height=30%>
+ <img src="https://user-images.githubusercontent.com/123460015/235429749-59f1af72-df86-41da-ba28-686eb7685667.png" width=30% height=30%> <img src="https://user-images.githubusercontent.com/123460015/235429749-59f1af72-df86-41da-ba28-686eb7685667.png" width=30% height=30%> <img src="https://user-images.githubusercontent.com/123460015/235429749-59f1af72-df86-41da-ba28-686eb7685667.png" width=30% height=30%>
 
